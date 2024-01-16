@@ -1,0 +1,10 @@
+img {
+    /* Mantener la proporción de la imagen */
+  display: block;  /* Eliminar espacio adicional por alineación en línea */
+  margin: 0 auto;   /* Centrar la imagen dentro del contenedor */
+  border: 2px solid #f7baba; /* Añadir un borde a la imagen (opcional) */
+  border-radius: 10px;
+  padding: 5px; /* Añadir relleno alrededor de la imagen (opcional) */
+  width: 300px;
+  height: 150px;
+}
